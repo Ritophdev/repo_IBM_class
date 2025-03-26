@@ -6,6 +6,6 @@ num2 = 7
 print (num1 + num2)
 
 if num1 + num2 == 10:
-  print ("Good")
+    print("you win!")
 else:
-  print("Error")
+    print("you lose!")
